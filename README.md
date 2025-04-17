@@ -69,7 +69,7 @@ To analyze Adventure Cycles' historical sales data and identify trends, profit d
 ## 🔗 Contact Me
 
 - 📧 Email:sanjanajujare23@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/sanjana-jujare-813249240)  
-- 💻 Portfolio: [GitHub Profile](https://github.com/SanjanaJujare)
+- 💼 [LinkedIn-Sanjana Jujare](https://www.linkedin.com/in/sanjana-jujare-813249240)  
+- 💻 Portfolio: [GitHub Profile-SanjanaJujare](https://github.com/SanjanaJujare)
 
 ---
